@@ -1,6 +1,6 @@
 /*    
  CS302 - Algorithm Project
- Project Title : BIGINT & Calculation of PI
+ Project Title : Schonhage Strassen Algorithm
  Instructor : Dr. Apurva Mudgal
 */
 
